@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pushkarpattiwar&label=Profile%20views&color=0e75b6&style=flat" alt="pushkarpattiwar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pushkarpattiwar" alt="pushkarpattiwar" /></a> </p>
+<img alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 - 📫 How to reach me **pushkarrp03@gmail.com**
 
